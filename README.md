@@ -1,5 +1,4 @@
-# Databricks Bootcamp 2026  
-Welcome to the Databricks Data Lakehouse Project! 
+# Databricks Lakehouse Project 2026  
 
 This repository contains a complete, real-world Data Lakehouse implementation built on Databricks, including datasets, notebooks, SQL examples, and exercises. Everything here is designed to building an understanding on how modern data teams use Databricks in practice, from data ingestion and transformation to analytics-ready data products.
 
