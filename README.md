@@ -16,13 +16,13 @@ Type casting and validation
 Dimensional Data Model (Business Transformation)
 Ready for BI and analysis
 
-# Technologies Used
-Databricks
-Apache Spark
-PySpark
-Spark SQL
-Delta Lake
-Unity Catalog
+## Technologies Used
+Databricks  
+Apache Spark  
+PySpark  
+Spark SQL  
+Delta Lake  
+Unity Catalog  
 
-# License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
