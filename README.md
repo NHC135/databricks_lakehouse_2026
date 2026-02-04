@@ -3,7 +3,9 @@
 This repository contains a complete, real-world Data Lakehouse implementation built on Databricks, including datasets, notebooks, SQL examples, and exercises. Everything here is designed to building an understanding on how modern data teams use Databricks in practice, from data ingestion and transformation to analytics-ready data products.
 
 # Architecture
-This project follows the Medallion Architecture:
+This project follows the Medallion Architecture:  
+[DATA MODEL DATA LAKEHOUSE.drawio.pdf](https://github.com/user-attachments/files/25062876/DATA.MODEL.DATA.LAKEHOUSE.drawio.pdf)  
+<img width="767" height="748" alt="Data Model Star Schema" src="https://github.com/user-attachments/assets/1651552a-693c-45d9-a9f2-3c18bc31650a" />
 
 ## Bronze Layer
 Raw data ingestion
